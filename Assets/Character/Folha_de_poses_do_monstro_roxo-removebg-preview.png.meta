@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 0b8ee077f01b4c24aa6f5521c6d2c123
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1073256597546541808
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_0
+  - first:
+      213: -1807299680943654632
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_1
+  - first:
+      213: 7901338551372134861
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_2
+  - first:
+      213: 476170070827249993
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_3
+  - first:
+      213: -3457548173950053841
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_4
+  - first:
+      213: 4165215881171399152
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_5
+  - first:
+      213: 4993236986927226761
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_6
+  - first:
+      213: -3919853847758140410
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_7
+  - first:
+      213: 3043947862328789665
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_9
+  - first:
+      213: 833299774319622243
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_11
+  - first:
+      213: 4903809086329101017
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_13
+  - first:
+      213: -1127837956152672061
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_14
+  - first:
+      213: 1579162558826012576
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_15
+  - first:
+      213: -5843224409893073856
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_16
+  - first:
+      213: -9036501649839908321
+    second: Folha_de_poses_do_monstro_roxo-removebg-preview_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 253
+        width: 73
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd4669fc60b11f0800000000000000
+      internalID: -1073256597546541808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 95
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8193da2048e2be6e0800000000000000
+      internalID: -1807299680943654632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 255
+        width: 102
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b2a4ac8137ad60800000000000000
+      internalID: 7901338551372134861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 259
+        width: 125
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b4541822bb9600800000000000000
+      internalID: 476170070827249993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 271
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2218e131425400d0800000000000000
+      internalID: -3457548173950053841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1790296c1ddc930800000000000000
+      internalID: 4165215881171399152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 131
+        width: 43
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9325959a8b4540800000000000000
+      internalID: 4993236986927226761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 131
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c8de891b1e999c0800000000000000
+      internalID: -3919853847758140410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 131
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aacae804764e3a20800000000000000
+      internalID: 3043947862328789665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 140
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368fbbfcab9709b00800000000000000
+      internalID: 833299774319622243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9afce164dd0440800000000000000
+      internalID: 4903809086329101017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0415bba5d1950f0800000000000000
+      internalID: -1127837956152672061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afdb610bff4ae510800000000000000
+      internalID: 1579162558826012576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 6
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8e61ab52b8eea0800000000000000
+      internalID: -5843224409893073856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folha_de_poses_do_monstro_roxo-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 5
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a9f0d70a5e79280800000000000000
+      internalID: -9036501649839908321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
